@@ -1,0 +1,25 @@
+body{background-color: lightblue;}
+
+h1{
+    color:green;
+    text-align:center;
+}
+
+#par1{font-size:20px; text-align:justify;}
+
+li{margin-bottom:10px;}
+
+img{
+    border-radius:10px;
+    width:150px;
+    height:150px;
+}
+
+table{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:italic;
+    font-size:20px;
+    font-weight:bold;
+}
+
+a:hover{color:aquamarine;}
